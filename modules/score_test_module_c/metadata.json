@@ -1,0 +1,19 @@
+{
+    "homepage": "https://github.com/eclipse-score/dev_playground",
+    "periodic-pull": true,
+    "maintainers": [
+        {
+            "name": "Leonardo Rossetti",
+            "email": "lrosett@redhat.com",
+            "github": "odra",
+            "github_user_id": 2183506
+        }
+    ],
+    "repository": [
+        "github:eclipse-score/dev_playground"
+    ],
+    "versions": [
+        "0.0.1"
+     ],
+    "yanked_versions": {}
+}
